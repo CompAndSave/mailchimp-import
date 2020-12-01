@@ -1,6 +1,6 @@
 {
   "name": "mailchimp-import",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Campaign Data Import from MailChimp",
   "main": "index.js",
   "scripts": {
