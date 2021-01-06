@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "axios": "^0.21.0",
-    "cas-common-lib": "^0.5.0",
+    "axios": "^0.21.1",
+    "cas-common-lib": "^0.5.2",
     "mongodb-ops": "^0.3.4"
   },
   "repository": {
