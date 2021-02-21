@@ -8,12 +8,12 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
-    "cas-common-lib": "^0.5.2",
-    "mongodb-ops": "^0.3.4"
+    "cas-common-lib": "^0.5.3",
+    "mongodb-ops": "^0.3.5"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lubu12/mailchimp-import.git"
+    "url": "git+https://github.com/CompAndSave/mailchimp-import.git"
   },
   "keywords": [
     "mailchimp"
@@ -21,14 +21,14 @@
   "author": "Andrew Y",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lubu12/mailchimp-import/issues"
+    "url": "https://github.com/CompAndSave/mailchimp-import/issues"
   },
-  "homepage": "https://github.com/lubu12/mailchimp-import#readme",
+  "homepage": "https://github.com/CompAndSave/mailchimp-import#readme",
   "directories": {
     "lib": "lib"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
-    "eslint": "^7.14.0"
+    "eslint": "^7.20.0"
   }
 }
