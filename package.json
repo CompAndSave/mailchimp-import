@@ -8,8 +8,8 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
-    "cas-common-lib": "^0.5.5",
-    "mongodb-ops": "^0.6.0"
+    "cas-common-lib": "^0.7.0",
+    "mongodb-ops": "^0.8.1"
   },
   "repository": {
     "type": "git",
