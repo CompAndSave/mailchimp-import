@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "cas-common-lib": "^0.12.5"
+    "cas-common-lib": "^0.12.6"
   },
   "repository": {
     "type": "git",
