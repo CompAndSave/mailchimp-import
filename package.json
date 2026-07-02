@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "cas-common-lib": "^0.12.6"
+    "cas-common-lib": "^0.12.10"
   },
   "repository": {
     "type": "git",
@@ -24,8 +24,5 @@
   "homepage": "https://github.com/CompAndSave/mailchimp-import#readme",
   "directories": {
     "lib": "lib"
-  },
-  "devDependencies": {
-    "eslint": "^8.34.0"
   }
 }
